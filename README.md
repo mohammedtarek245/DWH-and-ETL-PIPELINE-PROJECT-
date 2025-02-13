@@ -12,6 +12,7 @@ This project focuses on transforming raw sales data into actionable insights usi
 
 
  Features
+ 
 ✅ Automates ETL processes for sales data  
 ✅ Uses SQL queries for efficient data analysis  
 ✅ Dockerized for seamless deployment  
